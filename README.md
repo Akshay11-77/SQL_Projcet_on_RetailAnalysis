@@ -19,9 +19,9 @@ The analysis covers **data cleaning, exploratory analysis, and 10 business-drive
 
 ---
 
-## Dataset
 
 
+## Information about the dataset
 
 The dataset contains transaction-level retail sales data including:
 - Date and time of sale
