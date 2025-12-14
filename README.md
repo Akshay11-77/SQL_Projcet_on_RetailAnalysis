@@ -20,8 +20,8 @@ The analysis covers **data cleaning, exploratory analysis, and 10 business-drive
 ---
 
 ## Dataset
-- **File:** `SQL - Retail Sales Analysis_utf .csv`
-- **Table Name:** `retail_sales`
+- **File:** ``
+
 
 The dataset contains transaction-level retail sales data including:
 - Date and time of sale
